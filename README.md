@@ -38,6 +38,6 @@ git clone https://github.com/Tinuanandh/casmart-master.git
 
 If you have any questions, suggestions, or feedback, please feel free to email me at tinuanandh03@gmail.com 
 
-### License
+## License
 
-This project is **free to use** and does not contains any license.
+This project is licensed under the [MIT License](LICENSE).
