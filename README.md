@@ -5,18 +5,13 @@
   
 
 
-  <h2 align="center">Casmart - eCommerce website</h2>
+  <h2 align="center">Trendmart - eCommerce website</h2>
 
-  Casmart is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
-
-  <a href="https://casmart.vercel.app/"><strong>➥ Live Demo</strong></a>
+  Trendmart is fully responsive ecommerce website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 </div>
 
 <br />
-
-### Demo Screeshots
-
 
 ### Prerequisites
 
